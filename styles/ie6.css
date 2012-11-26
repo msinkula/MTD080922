@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* HACK FOR IE: to make sure the sub menus show above form controls, we underlay each submenu with an iframe */
+ul.MenuBarHorizontal iframe {
+	display: none;
+	position: absolute;
+	z-index: 1010;
+	}
+	
+	 #drop-box-about, #drop-box-improvement, #drop-box-services {
+	 	margin-left: -38px;
+		}
+		
+	#drop-box-about li, #drop-box-improvement li, #drop-box-services li {
+	 	margin-left: 20px;
+		}
+		
+		
+		
+	/* BEGIN BACKGROUNDS */
+	
+	.about-merriweather {
+		background-image: url(../images/bg-middle-about-merriweather.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.about-clients {
+		background-image: url(../images/bg-middle-about-clients.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.about-team {
+		background-image: url(../images/bg-middle-about-team.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.about-coaches {
+		background-image: url(../images/bg-middle-about-coaches.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+	
+	.challenge {
+		background-image: url(../images/bg-middle-challenge.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.improvement-overview {
+		background-image: url(../images/bg-middle-improvement-overview.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+	
+	.improvement-transformation {
+		background-image: url(../images/bg-middle-improvement-transformation.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.improvement-approach {
+		background-image: url(../images/bg-middle-improvement-approach.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.improvement-solution {
+		background-image: url(../images/bg-middle-improvement-solution.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.improvement-features {
+		background-image: url(../images/bg-middle-improvement-features.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.improvement-implementing {
+		background-image: url(../images/bg-middle-improvement-implementing.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-virtual {
+		background-image: url(../images/bg-middle-services-virtual.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-execution {
+		background-image: url(../images/bg-middle-services-execution.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-coaching {
+		background-image: url(../images/bg-middle-services-coaching.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-speaker {
+		background-image: url(../images/bg-middle-services-speaker.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-team {
+		background-image: url(../images/bg-middle-services-team.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-keynote {
+		background-image: url(../images/bg-middle-services-keynote.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-conferences {
+		background-image: url(../images/bg-middle-services-conferences.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.services-organization {
+		background-image: url(../images/bg-middle-services-organization.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.events {
+		background-image: url(../images/bg-middle-events.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}	
+		
+	.careers {
+		background-image: url(../images/bg-middle-careers.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.contact {
+		height: 396px;
+		padding: 0px 0 0 0;
+		background-image:url(../images/bg-middle-contact.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.privacy {
+		background-image:url(../images/bg-middle-privacy.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+		
+	.subscribe {
+		background-image:url(../images/bg-middle-subscribe.gif);
+		background-position: top center;
+		background-repeat: no-repeat;
+		}
+
+	/* END BACKGROUNDS */
+	
+	#suckage {
+		margin-top: -7px;
+		clear: both;
+		}

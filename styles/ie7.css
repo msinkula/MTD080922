@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#menu-main {
+	background-color:#959ca1;
+	padding: 0px;
+	}
+
+#menu-main-about, #menu-main-about-on {
+	width: 94px;
+	}
+	
+#menu-main-challenge, #menu-main-challenge-on {
+	width: 184px;
+	}
+
+#menu-main-improvement, #menu-main-improvement-on {
+	width: 174px;
+	} 
+
+#menu-main-services, #menu-main-services-on {
+	width: 125px;
+	}
+
+#menu-main-events, #menu-main-events-on {
+	width: 156px;
+	}
+
+#menu-main-careers, #menu-main-careers-on {
+	width: 85px;
+	}
+	
+#menu-main-contact, #menu-main-contact-on {
+	width: 102px;
+	}
+		
+#drop-box-about, #drop-box-improvement, #drop-box-services, #drop-box-clients, #drop-box-events, #drop-box-contact {
+	 	margin-left: -19px;
+		
+		}
+		
+#drop-box-about li, #drop-box-improvement li, #drop-box-services li, #drop-box-clients li, #drop-box-events li, #drop-box-contact li {
+	padding-left: 18px;
+	}
+		
+		
+#menu-main-about, #menu-main-about-on {
+			margin-left: 0px;
+			}
+		
+		#menu-main-about a, #menu-main-about-on a {
+			padding: 6px 30px 6px 10px;
+			}
+			
+		#menu-main-improvement a, #menu-main-improvement-on a {
+			padding: 6px 30px 6px 10px;
+			}
+			
+		#menu-main-challenge a, #menu-main-challenge-on a {
+			padding: 6px 30px 6px 10px;
+			}
+			
+		#menu-main-services a, #menu-main-services-on a {
+			padding: 6px 30px 6px 10px;
+			}
+			
+		#menu-main-clients a, #menu-main-clients-on a {
+			padding: 6px 30px 6px 10px;
+			}
+			
+		#menu-main-events a, #menu-main-events-on a {
+			padding: 6px 30px 6px 10px;
+			}
+		
+		#menu-main-careers a, #menu-main-careers-on a {
+			padding: 6px 30px 6px 10px;
+			}
+				
+		#menu-main-contact a, #menu-main-contact-on a {
+			padding: 6px 30px 6px 10px;
+			}
+			
+		#menu-main-about a:hover, #menu-main-about a:focus, #menu-main-about-on a, #menu-main-about-on a:hover, #menu-main-challenge a:hover, #menu-main-challenge a:focus, #menu-main-challenge-on a, #menu-main-challenge-on a:hover, #menu-main-improvement a:hover, #menu-main-improvement-on a, #menu-main-improvement-on a:hover, #menu-main-services a:hover, #menu-main-services-on a, #menu-main-services-on a:hover, #menu-main-clients a:hover, #menu-main-clients-on a,#menu-main-clients-on a:hover, #menu-main-events a:hover, #menu-main-events-on a, #menu-main-events-on a:hover, #menu-main-careers a:hover, #menu-main-careers-on a, #menu-main-careers-on a:hover,  #menu-main-careers a:hover, #menu-main-contact a:hover, #menu-main-contact-on a, #menu-main-contact-on a:hover,  #menu-main-contact a:hover {
+		padding: 6px 30px 6px 10px;
+		}
+		
